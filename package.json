@@ -1,6 +1,6 @@
 {
   "name": "devices",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "BLE devices",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JelleDBZ/Bluetooth-Devices#readme",
   "dependencies": {
-    "@abandonware/bleno": "^0.5.1-1"
+    "@abandonware/bleno": "^0.5.1-1",
+    "express": "^4.17.1"
   }
 }
