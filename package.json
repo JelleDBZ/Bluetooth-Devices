@@ -1,0 +1,22 @@
+{
+  "name": "devices",
+  "version": "0.0.0",
+  "description": "BLE devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JelleDBZ/Bluetooth-Devices.git"
+  },
+  "author": "Jelle De Buyzere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JelleDBZ/Bluetooth-Devices/issues"
+  },
+  "homepage": "https://github.com/JelleDBZ/Bluetooth-Devices#readme",
+  "dependencies": {
+    "@abandonware/bleno": "^0.5.1-1"
+  }
+}
